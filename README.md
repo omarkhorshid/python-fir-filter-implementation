@@ -36,7 +36,6 @@ This audio signal is read from a ".wav" file of a sampling frequency of **11025H
 This design can be achieved by using MATLAB Filter Designer.
 <br>
 ![alt text](./Screenshots/mlab_filter_design.png "MATLAB Filter Designer")
-
 <!-- <img src="./Screenshots/mlab_filter_design.png" alt="MATLAB Filter Designer" width="960"/> -->
 <br>*MATLAB Filter Designer*
 <br>
