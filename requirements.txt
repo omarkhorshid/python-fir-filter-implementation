@@ -1,0 +1,4 @@
+#Run to install required modules:
+#pip install -r requirements.txt
+scipy
+numpy
