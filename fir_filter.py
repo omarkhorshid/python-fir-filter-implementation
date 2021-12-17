@@ -24,6 +24,3 @@ for sample in data:
     output.append(np.float32(out_sample))
 
 wavfile.write("output.wav",11025,np.array(output))
-
-
-
