@@ -75,7 +75,7 @@ output.append(np.float32(out_sample))
 ```
 
 
-To read the samples from the audio file, scipy.io module is used to read the samples and write the filtered samples into the output ".wav" file.
+scipy.io module is used to read the samples and write the filtered samples into the output ".wav" file.
 
 
 ## Conclusion
